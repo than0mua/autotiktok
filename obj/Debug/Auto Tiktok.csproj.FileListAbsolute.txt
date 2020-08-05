@@ -1,0 +1,22 @@
+C:\Users\than0\source\repos\Auto Tiktok\bin\Debug\Auto Tiktok.exe.config
+C:\Users\than0\source\repos\Auto Tiktok\bin\Debug\Auto Tiktok.exe
+C:\Users\than0\source\repos\Auto Tiktok\bin\Debug\Auto Tiktok.pdb
+C:\Users\than0\source\repos\Auto Tiktok\bin\Debug\WebDriver.dll
+C:\Users\than0\source\repos\Auto Tiktok\bin\Debug\WebDriver.Support.dll
+C:\Users\than0\source\repos\Auto Tiktok\bin\Debug\WebDriver.xml
+C:\Users\than0\source\repos\Auto Tiktok\bin\Debug\WebDriver.Support.xml
+C:\Users\than0\source\repos\Auto Tiktok\obj\Debug\Auto Tiktok.csprojAssemblyReference.cache
+C:\Users\than0\source\repos\Auto Tiktok\obj\Debug\MainWindow.g.cs
+C:\Users\than0\source\repos\Auto Tiktok\obj\Debug\App.g.cs
+C:\Users\than0\source\repos\Auto Tiktok\obj\Debug\Auto Tiktok_MarkupCompile.cache
+C:\Users\than0\source\repos\Auto Tiktok\obj\Debug\Auto Tiktok_MarkupCompile.lref
+C:\Users\than0\source\repos\Auto Tiktok\obj\Debug\MainWindow.baml
+C:\Users\than0\source\repos\Auto Tiktok\obj\Debug\Auto Tiktok.g.resources
+C:\Users\than0\source\repos\Auto Tiktok\obj\Debug\Auto_Tiktok.Properties.Resources.resources
+C:\Users\than0\source\repos\Auto Tiktok\obj\Debug\Auto Tiktok.csproj.GenerateResource.cache
+C:\Users\than0\source\repos\Auto Tiktok\obj\Debug\Auto Tiktok.csproj.CopyComplete
+C:\Users\than0\source\repos\Auto Tiktok\obj\Debug\Auto Tiktok.exe
+C:\Users\than0\source\repos\Auto Tiktok\obj\Debug\Auto Tiktok.pdb
+C:\Users\than0\source\repos\Auto Tiktok\bin\Debug\AutoItX3.Assembly.dll
+C:\Users\than0\source\repos\Auto Tiktok\obj\Debug\Interop.AutoItX3Lib.dll
+C:\Users\than0\source\repos\Auto Tiktok\obj\Debug\Auto Tiktok.csproj.ResolveComReference.cache
